@@ -16,3 +16,5 @@ class HippocampalMemory:
         self.short_term_memory.clear()
         self.long_term_memory.clear()
 
+#This simulates memory handling similar to the hippocampus for LLM integration.
+
